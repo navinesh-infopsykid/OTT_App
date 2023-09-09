@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406430337492",
+    "project_id": "ott-platform-navi",
+    "storage_bucket": "ott-platform-navi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406430337492:android:4558b023ae0796e227ee41",
+        "android_client_info": {
+          "package_name": "com.example.ott_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406430337492-mc8bfpo9pna37d577hss6u8idjmhj28r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9OJeXlvxj4BjC-6MU_Myy4r6OHSZObE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406430337492-mc8bfpo9pna37d577hss6u8idjmhj28r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
